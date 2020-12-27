@@ -1,0 +1,13 @@
+com\fatihb\example\Services\UserService.class
+com\fatihb\example\Repositories\PortedNumberRepository.class
+com\fatihb\example\Entities\User.class
+com\fatihb\example\Controllers\UserController.class
+com\fatihb\example\Entities\PortedNumber.class
+com\fatihb\example\Controllers\IsletmeciController.class
+com\fatihb\example\Services\PortedNumberService.class
+com\fatihb\example\Repositories\UserRepository.class
+com\fatihb\example\Entities\Isletmeci.class
+com\fatihb\example\Controllers\PortedNumberController.class
+com\fatihb\example\ExampleApplication.class
+com\fatihb\example\Repositories\IsletmeciRepository.class
+com\fatihb\example\Services\IsletmeciService.class
